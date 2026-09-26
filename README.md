@@ -3,7 +3,7 @@
 
 The interactive Power BI dashboard provides an overview of cart abandonment patterns, session behavior, product activity, price ranges, brands, and event types.
 
-![Cart Abandonment Dashboard](screenshots/Cart_dashboard.png)
+![Cart Abandonment Dashboard](Cart_dashboard.png)
 
 ## 📌 Project Overview
 
